@@ -26,6 +26,9 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
+  router: {
+    base: '/first_nuxt/'
+  },
   /*
   ** Global CSS
   */
